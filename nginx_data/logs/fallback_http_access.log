@@ -1,0 +1,6 @@
+[16/Jan/2026:01:26:35 +0000] 200 - GET http 192.168.57.24 "/" [Client 172.18.0.1] [Length 568] [Gzip 1.86] "Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0" "-"
+[16/Jan/2026:01:26:54 +0000] 200 - GET http localhost "/" [Client 172.18.0.1] [Length 568] [Gzip 1.86] "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" "-"
+[16/Jan/2026:01:26:54 +0000] 400 - GET http localhost "/favicon.ico" [Client 127.0.0.1] [Length 230] [Gzip -] "-" "-"
+[16/Jan/2026:01:36:32 +0000] 400 - GET http localhost "/" [Client 172.18.0.1] [Length 654] [Gzip -] "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" "-"
+[16/Jan/2026:01:36:32 +0000] 400 - GET http localhost "/favicon.ico" [Client 172.18.0.1] [Length 654] [Gzip -] "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" "http://localhost:443/"
+[16/Jan/2026:01:37:08 +0000] 400 - GET http localhost "/favicon.ico" [Client 127.0.0.1] [Length 230] [Gzip -] "-" "-"
